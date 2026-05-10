@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 I'm Hira
 
-<!--
-**Hirakousar492/Hirakousar492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Web Developer
+🌐 Building responsive and modern web interfaces
+🚀 Skilled in HTML, CSS, JavaScript, React, Bootstrap
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+* HTML5 / CSS3
+* JavaScript (ES6+)
+* React.js
+* Bootstrap
+* Responsive Web Design
+
+---
+
+## 📌 About Me
+
+I am a frontend developer passionate about creating clean, user-friendly, and responsive websites. I enjoy turning ideas into interactive web experiences with modern UI design.
+
+---
+
+## 📂 Featured Projects
+
+* Landing Pages
+* React UI Components
+* Responsive Websites
+
+---
+
+## 📫 Contact
+
+Feel free to reach me for collaboration or freelance work.
+
